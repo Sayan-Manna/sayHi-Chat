@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "212001263159",
+    "project_id": "sayhi-chat-a2466",
+    "storage_bucket": "sayhi-chat-a2466.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212001263159:android:95676227ac65527f3239b2",
+        "android_client_info": {
+          "package_name": "com.example.sayhi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212001263159-didntoh8oh7d7dbt2s1d6geibu0rdo8v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sayhi",
+            "certificate_hash": "a44d4092c30aac95041d56c748b25988931c5629"
+          }
+        },
+        {
+          "client_id": "212001263159-nfdn3o760tbofchrujs8v01ofku7lcp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSyUfGIkOVS5b7MvS3ZDeqMZjsqWGPnpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212001263159-nfdn3o760tbofchrujs8v01ofku7lcp0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
